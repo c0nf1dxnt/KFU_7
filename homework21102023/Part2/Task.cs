@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Part2
+﻿namespace Part2
 {
     enum TaskCategory
     {
